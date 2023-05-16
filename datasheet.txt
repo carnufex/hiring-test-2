@@ -1,0 +1,118 @@
+A vital piece of a strong security
+stack
+There’s no silver bullet for online security, especially
+when it comes to user authentication. That’s why
+security architects need to apply multiple solutions
+in parallel. We can help companies thwart attackers,
+detect fraudulent users early, and prevent real damage
+– without any extra hardware.
+BehavioSec provides behavioral biometric solutions
+that help prevent fraud and abuse by stopping
+it before it starts. It integrates with traditional
+authentication techniques to verify the person
+behind the security token, creating an enhanced
+security experience that doesn’t undermine the user
+experience.
+With BehavioSec for the web, you get real-time and
+batch-risk analysis that makes sure users are who
+they say they are. We use behavioral biometrics to
+analyze their activities, and then you can take steps
+accordingly. Speeding up the detection of fraudulent
+users means significant cost savings for companies
+and customers. It’s also possible to use BehavioSec to
+get after-the-fact analysis of transactions, as well as
+data comparison against a known user base.
+Key features
+•	 Continuous authentication means protection is
+always active
+•	 Adaptive security that isn’t limited to specific
+computers or locations
+•	 Dynamic machine learning that adapts to natural
+changes in user behavior
+•	 Transparent layer of security that doesn’t ask
+anything of the user
+Key benefits
+•	 Increased protection from unauthorized usage
+•	 Cost-efficient, with no need for special hardware
+or tokens
+•	 Easy to integrate into existing web infrastructures
+•	 Server-based, with no client-side software
+A new type of risk
+management factor
+The score provided by the BehavioSec algorithm
+can also be used with existing solutions for risk
+mitigation, or alternatively, can be used to request
+a step-up authentication, in real-time, to combat
+fraud at the moment it’s being attempted.
+BehavioSec is easy to deploy with your existing
+web infrastructure. The BehavioSec partner
+network offers other architectures and platforms
+that are made available through the use of third
+party products such as risk engines & versatile
+authentication servers.
+The user-friendly security
+layer
+Where existing token-based products (such
+as PKI and OTP) provide verification from the
+token, they don’t verify that the user that is initiating
+Press Flight Sequence Mouse
+and verifying a transaction is the correct person.
+BehavioSec complements existing user management
+services with a risk analysis of the user’s behavioral
+pattern.
+It’s a smart solution for organizations looking for
+something to fill the gap between low-security or
+weak user passwords and the overhead and hassle
+of extra hardware like physical tokens. Regardless of
+the authentication event taking place, BehavioSec will
+transparently verify a user’s authenticity by comparing
+their behavior against the correct user’s known
+patterns.
+Continuous authentication can be used on every login
+and every transaction to determine the likelihood that
+this is the person who actually owns the account.
+How does it work?
+Each person has a unique rhythm when interacting
+with a web page or mobile device, which is reflected
+in their keystroke dynamics. By timing each key press
+and analyzing the timing deltas to subsequent key
+action (up & down) for each key pair, BehavioSec
+builds up a profile of the user to be used in order
+to detect consistency. Through this analysis the
+software collects data about the user’s normal usage
+patterns and attaches this small statistical data to
+any transaction. The server side software will perform
+a risk analysis on the data and give a scoring of the
+similarity to the correct user.
+BehavioSec monitors the behaviour following a
+lightweight three step model:
+First. Collect behavioral data
+BehavioSec’s JavaScript collector plugs into the
+business application and starts learning each
+customer’s behavior. All data is collected to verify
+that the behavior matches previous activity from this
+specific user ID. It doesn’t look at random behavior
+– it looks at data your customers produce about
+themselves, through their own transactions.
+Second. Analyze statistics
+By looking at users’ various behavioral patterns
+and movements, the software can determine a
+risk level for each transaction, send alarms to alert
+investigators, and, if existing infrastructure is in place,
+take steps to prevent fraudulent usage through a
+step-up authentication. A detailed forensic trail of
+the events and a comparison against specific fraud
+profiles identified is presented in the management
+dashboard to allow thorough investigations and speed
+up the fraud case management.
+Third. Update user profile
+Every time a user logs in and uses their account,
+BehavioSec evaluates their behavior against their
+and all other individuals’ history. Because people
+change, grow, learn or get tired or injured, the software
+continuously and automatically adapts to the changes
+in their behavior and updates risk evaluations -- no
+manual configuration needed.
+Find out if BehavioSec is right for you and your
+customers at behaviosec.com or email contact@
+behaviosec.com.
